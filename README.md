@@ -111,23 +111,6 @@ My teaching approach focuses on:
 - Building projects using modern technologies
 - Developing problem-solving skills
 
-<br>
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=royshanto&layout=compact&theme=tokyonight"
-    alt="Shanto Roy Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=royshanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    alt="Shanto Roy GitHub Stats"
-  />
-</p>
-
 
 <br>
 
