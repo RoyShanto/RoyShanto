@@ -27,8 +27,6 @@ Welcome to my GitHub profile 🚀
 
 <div align="center">
 
-Welcome to my GitHub profile 🚀
-
 I am a **MERN Stack Developer and Instructor** passionate about building modern, scalable, and user-friendly web applications. I enjoy creating real-world software solutions, mentoring aspiring developers, and sharing practical knowledge about programming and software development. My focus is building business-oriented applications with clean UI, efficient backend architecture, optimized performance, and maintainable code. Feel free to explore my repositories, contribute, suggest improvements, or connect with me.
 
 <i>Happy Coding! 😊</i>
