@@ -119,42 +119,6 @@ Feel free to explore my repositories, contribute, suggest improvements, or conne
 <br>
 
 
-# 🚀 Featured Projects
-
-
-## 💰 Gold Management System
-
-A MERN Stack based business management application for managing:
-
-- Customer information
-- Gold investments
-- Payment history
-- Partner management
-- Financial tracking
-- Role-based access control
-
-
-**Technology:**
-
-React.js | TanStack Query | Node.js | Express.js | MongoDB
-
-
-<br>
-
-
-## 📊 Business Dashboard Applications
-
-Building modern dashboard solutions with:
-
-- Authentication
-- Data visualization
-- User management
-- Secure API architecture
-- Optimized database queries
-
-
-<br>
-
 
 # 🌐 Portfolio Website
 
