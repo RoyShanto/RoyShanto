@@ -3,7 +3,7 @@
 <img src="./assets/software-development.jpg" width="800"/>
 
 <h2>
-Hello there, fellow <code>developers</code>!! 👋
+Welcome to my GitHub profile 🚀 
 </h2>
 
 </div>
@@ -12,7 +12,7 @@ Hello there, fellow <code>developers</code>!! 👋
 <div align="center">
 
 <h2>
-<b>Hey, I am Shanto Roy 🚀</b>
+<b>Hey, I am <code>Shanto Roy</code> 👋</b>
 </h2>
 
 <p>
