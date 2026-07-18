@@ -24,6 +24,7 @@ Welcome to my GitHub profile 🚀
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -32,7 +33,6 @@ I am a **MERN Stack Developer and Instructor** passionate about building modern,
 <i>Happy Coding! 😊</i>
 
 </div>
-
 
 <br>
 
