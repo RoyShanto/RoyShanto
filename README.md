@@ -16,7 +16,7 @@ Welcome to my GitHub profile 🚀
 </h2>
 
 <p>
-<img src="https://img.shields.io/badge/Role-MERN%20Stack%20Developer%20%7C%20Software%20Instructor-blue" />
+<img src="https://img.shields.io/badge/Role-MERN%20Stack%20Developer%20%7C%20Instructor-blue" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development-blue" />
 <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue" />
 <img src="https://img.shields.io/badge/Spoken%20Languages-English%20%26%20Bangla-blue" />
