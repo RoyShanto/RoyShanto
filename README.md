@@ -1,5 +1,5 @@
 <div align="center">
- <p align="center"><img src="./assets/software-development.jpg" height="250px" width="600px"></p>
+ <p align="center"><img src="./assets/software-development.jpg" height="300px" width="600px"></p>
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!!</h2>
 </div>
 
