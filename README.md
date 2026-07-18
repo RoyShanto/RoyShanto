@@ -41,7 +41,7 @@ I am a **MERN Stack Developer and Instructor** passionate about building modern,
 
 ✔ Name: **Shanto Roy**  
 
-✔ Currently working as a **MERN Stack Developer and Software Development Instructor**
+✔ Currently working as a **MERN Stack Developer and Instructor**
 
 ✔ Specialized in **React.js, Node.js, Express.js and MongoDB**
 
