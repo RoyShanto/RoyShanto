@@ -140,11 +140,17 @@ My teaching focuses on:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royshanto&theme=tokyonight" width="48%" />
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royshanto&theme=tokyonight" height="200"/>
+</td>
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=royshanto&theme=tokyonight" width="48%" />
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=royshanto&theme=tokyonight" height="200"/>
+</td>
+</tr>
+</table>
 
 </div>
 
