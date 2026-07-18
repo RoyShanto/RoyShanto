@@ -140,7 +140,7 @@ My teaching focuses on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=royshanto&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=royshanto&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=royshanto&theme=tokyonight" width="48%" />
 
